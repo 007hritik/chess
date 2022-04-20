@@ -1,0 +1,3 @@
+enum TileColor {
+  WHITE,BLACK
+}
